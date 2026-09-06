@@ -1,0 +1,1022 @@
+[
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.1" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.2" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.3" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.4" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.5" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.6" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.7" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.8" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.9" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "9.0" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.1" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.2" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.3" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.4" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.5" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.6" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.7" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.8" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.9" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "9.0" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.1" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.2" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.3" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.4" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.5" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.6" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.7" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.8" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.9" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "9.0" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.1" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.2" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.3" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.4" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.5" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.6" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.7" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.8" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.9" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "9.0" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.1" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.2" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.3" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.4" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.5" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.6" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.7" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.8" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.9" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "9.0" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.1" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.2" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.3" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.4" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.5" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.6" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.7" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.8" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "8.9" },
+  { "album": "PARAISO", "year": "2022", "artist": "MORA", "ranked": "9.0" },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.1"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.2"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.3"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.4"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.5"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.6"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.7"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.8"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.9"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "9.0"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.1"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.2"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.3"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.4"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.5"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.6"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.7"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.8"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.9"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "9.0"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.1"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.2"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.3"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.4"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.5"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.6"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.7"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.8"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.9"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "9.0"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.1"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.2"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.3"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.4"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.5"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.6"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.7"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.8"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.9"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "9.0"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.1"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.2"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.3"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.4"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.5"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.6"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.7"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.8"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.9"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "9.0"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.1"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.2"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.3"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.4"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.5"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.6"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.7"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.8"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.9"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "9.0"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.1"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.2"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.3"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.4"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.5"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.6"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.7"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.8"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.9"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "9.0"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.1"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.2"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.3"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.4"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.5"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.6"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.7"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.8"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.9"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "9.0"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.1"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.2"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.3"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.4"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.5"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.6"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.7"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.8"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.9"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "9.0"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.1"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.2"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.3"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.4"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.5"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.6"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.7"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.8"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.9"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "9.0"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.1"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.2"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.3"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.4"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.5"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.6"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.7"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.8"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.9"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "9.0"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.1"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.2"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.3"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.4"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.5"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.6"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.7"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.8"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.9"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "9.0"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.1"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.2"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.3"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.4"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.5"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.6"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.7"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.8"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.9"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "9.0"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.1"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.2"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.3"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.4"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.5"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.6"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.7"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.8"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.9"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "9.0"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.1"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.2"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.3"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.4"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.5"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.6"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.7"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.8"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.9"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "9.0"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.1"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.2"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.3"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.4"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.5"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.6"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.7"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.8"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "8.9"
+  },
+  {
+    "album": "YHLQMDLG",
+    "year": "2022",
+    "artist": "Bad Bunny",
+    "ranked": "9.0"
+  }
+]

@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: consumer-deployment
+  namespace: so1-proyecto2
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: consumer
+  template:
+    metadata:
+      labels:
+        app: consumer
+    spec:
+      containers:
+      - name: consumer
+        image: keviingarciah/so1_consumer:v1.6
+        resources:
+          requests:
+            memory: "500Mi"
+            cpu: "0.2"
+          limits:
+            memory: "500Mi"
+            cpu: "0.2"
