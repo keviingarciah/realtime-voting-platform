@@ -32,12 +32,13 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	ctx, _ := context.WithTimeout(context.Background(), 10*time.Second)
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
 	err = client.Connect(ctx)
+	cancel()
 	if err != nil {
 		log.Fatal(err)
 	}
-	defer client.Disconnect(ctx)
+	defer client.Disconnect(context.Background())
 
 	// Acceder a la colección "votes" de la base de datos "so1_proyecto2"
 	collection = client.Database("so1_proyecto2").Collection("votes")
@@ -56,13 +57,14 @@ func main() {
 }
 
 func getLogs(c *fiber.Ctx) error {
-	ctx, _ := context.WithTimeout(context.Background(), 30*time.Second)
+	ctx, cancel := context.WithTimeout(context.Background(), 30*time.Second)
+	defer cancel()
 
 	// Obtener los últimos 10 documentos de la colección
 	opts := options.Find()
 	opts.SetLimit(20)
-	opts.SetSort(bson.D{{"$natural", -1}})
-	cursor, err := collection.Find(ctx, bson.D{{}}, opts)
+	opts.SetSort(bson.D{{Key: "$natural", Value: -1}})
+	cursor, err := collection.Find(ctx, bson.D{}, opts)
 	if err != nil {
 		log.Fatal(err)
 	}

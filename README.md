@@ -31,7 +31,7 @@ flowchart LR
     end
 
     subgraph Ingress["NGINX Ingress"]
-        IN[/grpc · /rust]
+        IN[/"/grpc / /rust"/]
     end
 
     subgraph Producers["Producer Services"]

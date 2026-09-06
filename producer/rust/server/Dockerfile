@@ -6,6 +6,7 @@ ENV TZ=America
 RUN apt-get update && apt-get install -y \
     build-essential \
     curl \
+    libcurl4-openssl-dev \
     openssl libssl-dev \
     pkg-config \
     python \

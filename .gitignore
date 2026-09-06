@@ -42,3 +42,7 @@ venv/
 
 # Build artifacts
 bin/
+
+# Agents
+.agents/
+.atl/
