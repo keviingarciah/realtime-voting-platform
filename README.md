@@ -191,23 +191,9 @@ realtime-voting-platform/
 
 ---
 
-## Portfolio Tips
-
-This repository is structured as a **case study**, not a code dump. When presenting it:
-
-1. Lead with the architecture diagram and explain the data flow in an interview.
-2. Highlight **tradeoffs** (why Strimzi, why HPA on consumer, why dual producers).
-3. Walk through a deployment from `kubectl apply` to seeing Grafana update live.
-4. Mention what you would add next: CI/CD image builds, Terraform for GKE, sealed secrets, Prometheus metrics.
-
----
-
 ## Author
 
 **Kevin Garcia** — aspiring DevOps Engineer
-
-- GitHub: [@keviingarciah](https://github.com/keviingarciah)
-- Docker Hub: [keviingarciah](https://hub.docker.com/u/keviingarciah)
 
 ---
 
